@@ -2,7 +2,7 @@ server:
   port: 8086
 spring:
   application:
-    name: gate-way
+    name: gate-way1
   cloud:
     #gate-way网关
     gateway:
